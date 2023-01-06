@@ -54,3 +54,20 @@
     border-radius: 7px 7px 7px 7px;
     
 }
+/* section1 */
+.section1{
+    display: flex;
+    margin-top: 130px;
+    margin-right: 346px;
+    margin-left: 182px;
+    background-color:#a08370af;
+    width: 1072px;
+    height: 723.3px;
+}
+section-img{
+    width: 569px;
+    height: 723.3px;
+}
+.section-details{
+   margin-top: 300px;
+}

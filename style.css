@@ -2,6 +2,21 @@
     margin: 0 ;
     font-family: 'Work Sans', sans-serif;
 }
+.primary-btn{
+    margin-top: 30px;
+    width: 160px;
+    height: 64px;
+    background: #FFFFFF;
+    border-radius: 5px;
+    color:#F15B22;
+
+    font-size: 20px;
+    line-height: 23px;
+    text-align: center;
+    border-style: none;
+
+
+}
 /* banner */
 .header{
     background-image: url(./images/banner/banner2.png);
@@ -125,4 +140,33 @@
     text-align: center;
     color: #737272;
 
+}
+/* section3 */
+.main-section3{
+    margin-left: 157px;
+    height: 300px;
+    margin-top: 100px;
+}
+.section3{
+    background-image: url(../images/watch.png),
+    linear-gradient(to left, rgba(0, 0, 0, 0), rgba(180, 62, 7, 0.623));
+    background-blend-mode: overlay;
+    background-repeat: no-repeat;
+    background-position: center;
+    border-radius: 8px;
+    height: 300px;
+    width: 1040px;
+
+}
+.section3-head{
+    width: 459px;
+    height: 182px;
+    padding-left: 64px;
+    padding-top: 56px;
+    
+}
+.section-head3{
+    font-size: 40px;
+    line-height: 47px;
+    color: #FFFFFF;
 }

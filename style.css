@@ -104,6 +104,40 @@
     align-items: center;
     justify-content: start;
 }
+/* extera kisu */
+.extra-kisu{
+    margin-top: 120px;
+}
+.vab-0{
+    display: flex;
+    margin-top: 90px;
+    padding-left: 217px;
+}
+.vab{
+    
+}
+.vab-1{
+    text-align: center;
+    font-size: 50px;
+}
+.vab-2{
+    width: 450px;
+    height: 435px;
+    border-radius: 60px;
+    padding-left: 80px;
+}
+
+.vab-text{
+    width: 40%;
+}
+.vab-3{
+    font-size: 30px;
+}
+.vab-4{
+    font-size: 20px;
+    text-align: justify;
+    /* background-color: #afacac7c; */
+}
 /* section2 */
 .section2{
     width: 1141px;

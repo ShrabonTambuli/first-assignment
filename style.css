@@ -254,6 +254,10 @@
     padding-left: 25px;
     
 }
+.footer-e::placeholder{
+    color: #F8F8F8;
+}
+
 .primary-btn2{
     margin-top: 16px;
     width: 170.11px;

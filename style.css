@@ -5,6 +5,7 @@
 /* banner */
 .header{
     background-image: url(./images/banner/banner2.png);
+    background-repeat: no-repeat;
     height: 800px;
 }
 .banner{
@@ -60,14 +61,68 @@
     margin-top: 130px;
     margin-right: 346px;
     margin-left: 182px;
-    background-color:#a08370af;
-    width: 1072px;
+    width: 1080px;
     height: 723.3px;
 }
-section-img{
+
+.section-img{
     width: 569px;
     height: 723.3px;
+    
 }
 .section-details{
-   margin-top: 300px;
+   margin-top: 220px;
+   margin-left: 47px;
+
+}
+.section-head{
+    font-size: 45px;
+}
+.section-text{
+    font-size: 20px;
+    line-height: 26px;
+    color: #444343;
+}
+.text-style{
+    line-height: 26px;
+    display: flex;
+    align-items: center;
+    justify-content: start;
+}
+/* section2 */
+.section2{
+    width: 1141px;
+    height: 299.96px;
+    margin-top: 110px;
+    text-align: center;
+    margin-left: 102px;
+}
+.section-head2{
+    margin-bottom: 50px;
+    font-size: 40px;
+    color: #151414;
+}
+.section-container{
+    display: flex;
+    justify-content: center;
+}
+.section-contain{
+   margin: 30px;
+}
+.section2-img{
+    width: 92px;
+    height: 92px;
+}
+.header2-text{
+    font-size: 28px;
+    line-height: 52px;
+    color: #151414;
+  
+}
+.section-p3{
+    font-size: 25px;
+    line-height: 29px;
+    text-align: center;
+    color: #737272;
+
 }
